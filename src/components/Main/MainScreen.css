@@ -1,0 +1,8 @@
+.main-screen {
+    width: 100%; /* Volle Breite */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
